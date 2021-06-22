@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxremRHLtjKxwJy/j2CWDSwfnYhTztTykV67eFdKgbqfkPZw99SmzjH9RQb0aqIBCCkDW4EvVwXj8yayopU+NA==",
+  "success": true,
+  "projectFilePath": "D:\\sourcecode\\repos\\BudgetAutomator\\BudgetAutomator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sam\\.nuget\\packages\\ironxl.excel\\2020.12.2\\ironxl.excel.2020.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}

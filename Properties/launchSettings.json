@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "BudgetAutomator": {
+      "commandName": "Project",
+      "commandLineArgs": "./data/DetailedBudget.xlsx"
+    },
+    "BA+File": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\sourcecode\\repos\\BudgetAutomator\\data\\DetailedBudget.xlsx"
+    }
+  }
+}
