@@ -7,6 +7,7 @@ namespace BudgetAutomator.Models
 {
     public class Receipt
     {
+        public int rowNumber { get; set; }
         public string vendor { get; set; }
         public string description { get; set; }
         public double amount { get; set; }

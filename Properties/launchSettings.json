@@ -6,7 +6,7 @@
     },
     "BA+File": {
       "commandName": "Project",
-      "commandLineArgs": "D:\\sourcecode\\repos\\BudgetAutomator\\data\\DetailedBudget.xlsx"
+      "commandLineArgs": "DetailedBudget.xlsx Transactions.csv"
     }
   }
 }

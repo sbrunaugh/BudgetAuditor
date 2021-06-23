@@ -4,7 +4,6 @@ D:\sourcecode\repos\BudgetAutomator\bin\Debug\netcoreapp3.1\BudgetAutomator.runt
 D:\sourcecode\repos\BudgetAutomator\bin\Debug\netcoreapp3.1\BudgetAutomator.runtimeconfig.dev.json
 D:\sourcecode\repos\BudgetAutomator\bin\Debug\netcoreapp3.1\BudgetAutomator.dll
 D:\sourcecode\repos\BudgetAutomator\bin\Debug\netcoreapp3.1\BudgetAutomator.pdb
-D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.csprojAssemblyReference.cache
 D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.AssemblyInfoInputs.cache
 D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.AssemblyInfo.cs
 D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.csproj.CoreCompileInputs.cache
@@ -13,3 +12,4 @@ D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.pdb
 D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.genruntimeconfig.cache
 D:\sourcecode\repos\BudgetAutomator\bin\Debug\netcoreapp3.1\IronXL.dll
 D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.csproj.CopyComplete
+D:\sourcecode\repos\BudgetAutomator\obj\Debug\netcoreapp3.1\BudgetAutomator.csproj.AssemblyReference.cache
